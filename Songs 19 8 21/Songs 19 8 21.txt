@@ -1,0 +1,13 @@
+Songs 19 8 21
+
+phil2alg	song202181916245.244910001754761lyrics.txt
+Check Arguments, Update Vars, Substitute Vars and Update vars 2 with Equals4 2	song2021819155354.79273796081543lyrics.txt
+Get and Put Values with Equals4	song2021819153054.86649990081787lyrics.txt
+1<->2 Args in first args	song2021819161833.65298795700073lyrics.txt
+Equals4 trace	song2021819161339.39886403083801lyrics.txt
+Equals4 fails when necessary	song2021819154816.796966075897217lyrics.txt
+Atoms and predicate names allowed in equals4 mode	song202181916547.028279066085815lyrics.txt
+Tests 156 and 161	song2021819153734.533185958862305lyrics.txt
+Test 118	song202181915438.922883987426758lyrics.txt
+Equals4=on is default	song2021819155939.69681096076965lyrics.txt
+Equals4 mode is on except for call commands with algorithms	song2021819163022.080379009246826lyrics.txt

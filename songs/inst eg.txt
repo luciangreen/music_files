@@ -1,0 +1,19 @@
+writeln([[a,b],MP,HP,VS])
+
+[[a,b],
+
+[[[a,[64,Soprano Sax],0],
+[b,[64,Soprano Sax],0]],
+[[a,[52,Choir Aahs],1],
+[b,[52,Choir Aahs],1]],
+[[a,[77,Shakuhachi],1],
+[b,[77,Shakuhachi],0]]],
+
+[[[a,[60,French Horn],1],
+[b,[60,French Horn],0]],
+[[a,[98,FX 3 (crystal)],0],
+[b,[98,FX 3 (crystal)],0]],
+[[a,[117,Melodic Tom],0],
+[b,[117,Melodic Tom],1]]],
+
+[0,Acoustic Grand Piano]]

@@ -1,0 +1,31 @@
+sectest0(Form1,Lyrics,Melody,Harmony,MelodyParts,HarmonyParts,Vocalstubinstrument,Song1).
+File size 76246 bytes
+format=1 tracks=8 division=384
+Successfully parsed
+Count ey nur tures the breath so ner.
+Black ye makes one.
+The gra pher makes Black ald.
+All e nur tures Ven ur.
+
+Luc ie writes about the dra wer.
+Don an lifts the breath so ner.
+The com bi ner feels Dix ald.
+The mi rac le moves to Duk ey.
+
+Dix er loves the wri ter.
+Black ess loves the breath so ner.
+Ac l loves Ac ae.
+The dra wer lifts Ac l.
+
+Whistl ie finds the gram mar.
+Ven ae is in the breath so ner.
+The spel ler nur tures All ey.
+One makes Don l.
+
+Form1 = [n, v1, i1, v2, c, t2, s, s, s],
+Lyrics = [[v1, ["Count", "ey", "nur", "tures", "the", "breath"|...], ["Black", "ye", "makes", "one"], ["the", "gra", "pher", "makes"|...], ["All", "e", "nur"|...]], [v2, ["Luc", "ie", "writes", "about", "the"|...], ["Don", "an", "lifts", "the"|...], ["the", "com", "bi"|...], ["the", "mi"|...]], [c, ["Dix", "er", "loves", "the"|...], ["Black", "ess", "loves"|...], ["Ac", "l"|...], ["the"|...]], [s, ["Whistl", "ie", "finds"|...], ["Ven", "ae"|...], ["the"|...], [...|...]]],
+Melody = [[n, ['B', 'C#']], [n, ['F#', 'G#', 'E']], [v, ['E', 'C']], [v, ['C']], [i, ['C', 'A'|...]], [i, ['E'|...]], [c, [...|...]], [c|...], [...|...]|...],
+Harmony = [[[n, ['B', 'D', 'F']], [n, ['C#', 'F', 'G']]], [[n, ['F#', 'A', 'C']], [n, ['D', 'F', 'A']], [n, ['E', 'G'|...]]], [[v, ['E', 'G', 'B']], [v, ['C', 'E'|...]]], [[v, ['C', 'E'|...]]], [[i, ['C'|...]], [i, [...|...]], [i|...]], [[i, [...|...]], [i|...], [...|...]], [[c|...], [...|...]], [[...|...]|...], [...|...]|...],
+MelodyParts = [[[n, [113, "Agogo"], 1], [v1, [113, "Agogo"], 1], [i1, [113, "Agogo"], 1], [v2, [113, "Agogo"], 0], [c, [113|...], 0], [t2, [...|...]|...], [s|...], [...|...]|...], [[n, [3, "Honky-Tonk Piano"], 1], [v1, [3, "Honky-Tonk Piano"], 1], [i1, [3, "Honky-Tonk Piano"], 1], [v2, [3|...], 1], [c, [...|...]|...], [t2|...], [...|...]|...], [[n, [13, "Xylophone"], 1], [v1, [13, "Xylophone"], 1], [i1, [13|...], 0], [v2, [...|...]|...], [c|...], [...|...]|...]],
+HarmonyParts = [[[n, [45, "Pizzicato Strings"], 0], [v1, [45, "Pizzicato Strings"], 0], [i1, [45, "Pizzicato Strings"], 0], [v2, [45, "Pizzicato Strings"], 1], [c, [45|...], 0], [t2, [...|...]|...], [s|...], [...|...]|...], [[n, [117, "Melodic Tom"], 0], [v1, [117, "Melodic Tom"], 0], [i1, [117, "Melodic Tom"], 0], [v2, [117|...], 0], [c, [...|...]|...], [t2|...], [...|...]|...], [[n, [55, "Orchestra Hit"], 0], [v1, [55, "Orchestra Hit"], 0], [i1, [55|...], 0], [v2, [...|...]|...], [c|...], [...|...]|...]],
+Vocalstubinstrument = [0, "Acoustic Grand Piano"],

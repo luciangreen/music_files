@@ -1,0 +1,6 @@
+Progeny Race
+
+sectest0(Lyrics,Melody,Harmony),write([Lyrics,Melody,Harmony]).
+[[[v1,[Ven,ur,goes,to,Le,ice],[All,l,makes,the,o,ther],[the,mi,rac,le,is,Le,ice],[the,tran,sla,tor,forms,All,ey]],[v2,[All,ald,reads,about,the,spel,ler],[Brae,ae,is,Sydn,ess],[the,com,bi,ner,has,Skye,ard],[the,breath,so,ner,is,Luc,ur]],[c,[Adr,an,goes,to,the,gra,pher],[Luc,ie,writes,about,the,run,ner],[the,mi,rac,le,nur,tures,Sydn,ess],[the,dra,wer,lifts,Dix,an]],[s,[Don,ald,nur,tures,the,dra,wer],[Black,ey,goes,to,Le,ice],[Ac,ur,nur,tures,Sydn,ess],[the,o,ther,has,All,ye]]],[[n,[B,D,C]],[n,[F,C#]],[v,[C#,F#,C]],[v,[F,G#,G]],[i,[G,D#,B]],[i,[E,C,D#]],[c,[D#,F#,C]],[c,[F,G]],[t,[G,A#,A]],[t,[D,F,A#]],[s,[A#,F#,C#]],[s,[F#,D]],[o,[D,C#,G]],[o,[C,D#,F#]]],[[[n,[B,D#,F#]],[n,[G,B,D]],[n,[C,E,G]]],[[n,[F,A,C]],[n,[A#,D,F]],[n,[C#,F,G#]]],[[v,[C#,F,G#]],[v,[E,G#,B]],[v,[C,E,G]]],[[v,[F,A,C]],[v,[G#,C,D#]],[v,[G,B,D]]],[[i,[G,B,D]],[i,[F#,A#,C#]],[i,[B,D#,F#]]],[[i,[E,G#,B]],[i,[C,E,G]],[i,[D#,G,A#]]],[[c,[D#,G,A#]],[c,[C#,F,G#]],[c,[C,E,G]]],[[c,[F,A,C]],[c,[G,B,D]]],[[t,[G,B,D]],[t,[A,C#,E]]],[[t,[D,F#,A]],[t,[E,G#,B]],[t,[A#,D,F]]],[[s,[A#,D,F]],[s,[F,A,C]],[s,[C#,F,G#]]],[[s,[F#,A#,C#]],[s,[G#,C,D#]],[s,[D,F#,A]]],[[o,[D,F#,A]],[o,[E,G#,B]],[o,[G,B,D]]],[[o,[C,E,G]],[o,[G,B,D]],[o,[F#,A#,C#]]]]]
+
+(non mind read)

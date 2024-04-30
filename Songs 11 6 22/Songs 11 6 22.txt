@@ -1,0 +1,8 @@
+Songs 11 6 22	
+	
+Simplify Types	song2022611123927.659029006958008_meta.txt
+Expand Types	song2022611123736.75192093849182_meta.txt
+Curly Brackets	song2022611123550.58196997642517_meta.txt
+Simple Types in List Prolog Interpreter	song2022611123338.52172493934631_meta.txt
+Simple Types in State Saving Interpreter	song2022611123116.72554302215576_meta.txt
+Simple Types in Languages	song2022611122926.1668119430542_meta.txt

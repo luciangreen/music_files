@@ -1,0 +1,46 @@
+Songs 8 3 23	
+	
+Immortality 16	song2023382077.2570319175720215.mid
+Immortality 17	song20233819363.0751519203186035.mid
+Immortality 18	song20233819469.679964065551758.mid
+Immortality 19	song20233820053.678093910217285.mid
+Lucian Academy Deleted Folders	song20233820158.355144023895264.mid
+Lucian Academy Expanded Marks Maths	song20233820436.43136692047119.mid
+Prolog-to-List-Prolog Fixed spacing	song20233820934.3899290561676.mid
+Prolog-to-List-Prolog (A=B-gt c;d) not ((A=B)-gt c;d) and (Agt B-gt c;d) not ((Agt B)-gt c;d)	song20233821036.40355110168457.mid
+Prolog-to-List-Prolog More Newlines	song20233821126.30717396736145.mid
+lucianpl compile_list.pl	song20233821197.088136911392212.mid
+lucianpl append_for_c.pl	song20233821315.608275890350342.mid
+SSI Text Area	song20233821635.76613211631775.mid
+SSI Fixed skip in findall	song20233821852.75772500038147.mid
+LPI shell, date_time_stamp commands	song202338193837.581543922424316.mid
+LPI date_time_stamp, phrase_from_file	song202338194130.538923978805542.mid
+LPI term_to_atom	song202338194354.626585960388184.mid
+LPI Text Area	song202338194812.754437923431396.mid
+LPI reverse	song202338195042.41048789024353.mid
+LPI Inserted numbers, string_atom, number_string, atom_string, string_codes	song202338195356.71539497375488.mid
+LPI put_item_ns	song202338195622.148377895355225.mid
+Philosophy Program Finder with Types - converts data to types, including nested lists	song202338195838.10334491729736.mid
+Philosophy Update pft.pl	song202338201246.292258977890015.mid
+Philosophy Fixed bug in nested lists in pft.pl	song202338201734.096165895462036.mid
+Philosophy New PFT expand types, list works	song202338201947.895647048950195.mid
+Philosophy 4 2 23 including quantum_entanglement	song202338202237.08477592468262.mid
+Philosophy Messager	song202338202456.94117307662964.mid
+Philosophy Find Lists	song202338202723.43379306793213.mid
+Philosophy Replace	song202338202944.416096925735474.mid
+Philosophy Thesaurus	song202338203211.66400408744812.mid
+Philosophy Expanded list format in find lists	song202338203447.68872809410095.mid
+Philosophy Changed PFT type IDs to all be separate, replace in columns	song202338203745.15042209625244.mid
+Philosophy Draft of types to alg	song202338204031.59389090538025.mid
+Philosophy gen_alg.pl Simple algorithm generator	song202338204259.95127296447754.mid
+Philosophy Finished PFT with gen_alg.pl	song202338204533.59772706031799.mid
+Philosophy Fixed a,b-gt b,a, test X in gen_alg.pl	song202338204827.62832999229431.mid
+Philosophy Fixed a,b in find_lists	song202338205031.054964065551758.mid
+Philosophy find_lists [b],a works.pl	song202338205258.93788194656372.mid
+Philosophy Verified first test in types_to_alg.pl	song202338205529.35628390312195.mid
+Philosophy Fixed 3 cases in types_to_alg.pl	song202338205756.204176902770996.mid
+Philosophy Create if-then.pl	song202338211421.68561601638794.mid
+Philosophy Output tested, pattern matching in types to alg	song202338211653.561635971069336.mid
+Philosophy Non-recursive predicates in find lists	song202338212122.61000394821167.mid
+Philosophy Reordered lists in types to alg	song202338212342.98490810394287.mid
+Philosophy Types to alg works with geodes (static structures)	song202338212559.8520929813385.mid

@@ -1,0 +1,13 @@
+Songs 26 7 21	
+	
+LPI bug that prevented equals4 from failing when necessary fixed 	song202172616472.5402169227600098.mid
+Member3 equals4 applied to variable 1	song202172617234.499258041381836.mid
+LPI Fixed bug for [[A|B]|C] to work	song202172617305.04137110710144.mid
+LPI Test 90 Bug Fixed	song202172617359.775896072387695.mid
+Test 118 - Types Checker	song202172617811.467619895935059.mid
+LPI append with equals4	song2021726165231.40434694290161.mid
+LPI bug in equals4 [1,2]=[A,B] where [A,B]=[3,2] doesn't fail fixed	song2021726165715.77840805053711.mid
+Cultural Translation Tool 2	song2021726171318.420417070388794.mid
+CTT Speed up 117	song2021726171831.296590089797974.mid
+checkarguments_equals4.pl	song2021726172414.981483936309814.mid
+equals4.pl	song2021726174159.52294588088989.mid

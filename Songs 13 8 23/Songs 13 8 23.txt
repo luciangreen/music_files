@@ -1,0 +1,173 @@
+Songs 13 8 23	
+	
+Swapped arguments in member	song2023813225552.97189903259277.mp3
+t2ab: auto entry and remove smart quotes	song202381405849.3191180229187.mp3
+t2ab: Multithreading	song202381405638.25340700149536.mp3
+t2b: immortality keeping same appearance to home, school teacher, medicine, bots, sales	song202381323533.714004039764404.mp3
+t2b: Time travel	song202381323327.374874114990234.mp3
+t2b: control not to die, control not to have s contact, control not to leave simulation, control whether appear to people	song202381323038.78898000717163.mp3
+t2b: can't be involuntarily time travelled	song202381322580.6734700202941895.mp3
+t2b: auto entry and remove smart quotes	song20238144929.096856117248535.mp3
+t2b: Multithreading	song20238144751.9091739654541.mp3
+lp2pconverter.pl: nested term	song20238141626.79877495765686.mp3
+lp2pconverter.pl: Function	song20238141438.39208793640137.mp3
+lp2pconverter.pl: Comment	song20238141239.71008801460266.mp3
+lp2pconverter.pl: :-f/1.	song20238141042.698479890823364.mp3
+lp2pconverter.pl: :-f.	song2023814468.183779954910278.mp3
+lp2pconverter.pl: :-, ->, -->	song2023814408.27462100982666.mp3
+lp2pconverter.pl: Quotes	song2023813224937.927525997161865.mp3
+lp2pconverter.pl: " \"" -> \" \\\"\"	song2023813224721.53493309020996.mp3
+lp2pconverter.pl: bt-p2lpverify	song2023813224537.92725491523743.mp3
+lp2pconverter.pl: bt1-p2lp_test	song2023813224222.754770040512085.mp3
+lp2pconverter.pl: use_module	song2023813224013.832854986190796.mp3
+lp2pconverter.pl: "[]", "()"	song2023813223813.315552949905396.mp3
+lp2pconverter.pl: equals4	song2023813223328.043426036834717.mp3
+lp2pconverter.pl: +, - , * , /	song2023813223125.11216402053833.mp3
+p2lp: pretty_print_lp2p: cut	song2023813222714.751662969589233.mp3
+p2lp: pretty_print_lp2p: findall	song2023813222515.29451608657837.mp3
+p2lp: Added to test1.pl	song2023813215926.57743191719055.mp3
+p2lp: pretty_print_lp2p: code	song2023813215521.627235889434814.mp3
+p2lp: lookahead(XB)	song2023813215312.587902069091797.mp3
+p2lp: keep_comments	song2023813215114.044202089309692.mp3
+p2lp: newlines	song2023813214920.19367003440857.mp3
+p2lp: pretty_print_lp2p: comment	song2023813214736.95091795921326.mp3
+p2lp: Added comments to test1.pl	song2023813214529.582191944122314.mp3
+p2lp: :-f(a), :-f.	song2023813214330.478517055511475.mp3
+p2lp: pp: :-f.	song2023813214055.3790180683136.mp3
+p2lp: pretty_print_lp2p: :-f/1.	song2023813213855.610575914382935.mp3
+p2lp: pretty_print_lp2p: :-f.	song2023813213715.38451099395752.mp3
+p2lp: Added :-f. to test1.pl	song2023813213528.23653793334961.mp3
+p2lp: p2lpverify.pl added, quotes fixed	song2023813213341.31201195716858.mp3
+p2lp: Quotes "\"" working	song2023813213149.11627197265625.mp3
+p2lp: p2lp_test: added tests	song2023813212359.770447969436646.mp3
+Philosophy: Update types_to_alg.pl	song2023813212152.242029905319214.mp3
+Philosophy: keywords in big_connections_with_bag3_and_mr_short_books	song2023813211949.469242095947266.mp3
+Philosophy: set_alarm	song2023813211751.171103954315186.mp3
+Philosophy: test_alarm	song2023813211615.635771989822388.mp3
+Philosophy: send_email	song2023813211414.139656066894531.mp3
+Philosophy: email_formatter	song2023813211212.638138055801392.mp3
+Philosophy: search_address_book	song2023813205626.426426887512207.mp3
+Philosophy: contact_or_delete	song2023813204959.47734308242798.mp3
+Philosophy: write_press_release	song2023813204814.157165050506592.mp3
+Philosophy: equispace_instruments	song2023813204621.23490595817566.mp3
+Philosophy: geometric_sequence	song2023813204424.891860008239746.mp3
+Philosophy: master	song2023813204231.103132009506226.mp3
+Philosophy: analytics_sum_columns	song2023813204047.06442594528198.mp3
+Philosophy: analytics_abandoned_cart_auto_responder	song2023813203846.78222107887268.mp3
+Philosophy: neuronetwork_values_ready_by_times	song2023813203628.197405099868774.mp3
+Philosophy: run_for_each_place	song2023813203430.50979208946228.mp3
+Philosophy: br_n_calculator	song2023813203235.6467969417572.mp3
+Philosophy: find1	song2023813203047.017033100128174.mp3
+Philosophy: minimise_dfa	song2023813202844.85853910446167.mp3
+Philosophy: replace1: replace words within entire words, after breaking by white space	song2023813202650.32783102989197.mp3
+Philosophy: ssi_in_c	song2023813202446.71966290473938.mp3
+Philosophy: ocr1	song2023813202243.69737005233765.mp3
+Philosophy: p(String,PS)	song2023813202036.21425795555115.mp3
+Philosophy: bar_with_time	song2023813201844.67635703086853.mp3
+Philosophy: create_edu_pol	song2023813201659.304611921310425.mp3
+Philosophy: find_peak_height	song2023813201059.776719093322754.mp3
+Philosophy: check_text_with_ontologies	song2023813195541.77736711502075.mp3
+Philosophy: popular_links	song2023813195044.16014909744263.mp3
+Philosophy: maze	song2023813194459.848007917404175.mp3
+Philosophy: model_to_result	song2023813193914.245192050933838.mp3
+Philosophy: summarise_structure	song2023813192850.55282402038574.mp3
+Philosophy: inkey	song2023813192431.89573311805725.mp3
+Philosophy: paths	song2023813191519.260025024414062.mp3
+Philosophy: formula	song2023813185713.868987083435059.mp3
+Philosophy: construct	song2023813185210.308509111404419.mp3
+Philosophy: letter	song2023813184824.956203937530518.mp3
+Philosophy: first_technique1	song2023813184334.92279601097107.mp3
+Philosophy: dimensions	song2023813183935.99307990074158.mp3
+Philosophy: length1	song2023813183540.70023989677429.mp3
+Philosophy: matrix_finder1	song2023813183123.884387969970703.mp3
+Philosophy: and1	song2023813182634.55254888534546.mp3
+Philosophy: revoke	song2023813182217.313747882843018.mp3
+Philosophy: dirs_true	song2023813181713.62519097328186.mp3
+Philosophy: connect_thoughts	song2023813175844.802424907684326.mp3
+Philosophy: closer	song2023813174832.40750503540039.mp3
+Philosophy: house_cross_section	song2023813174423.87699294090271.mp3
+Philosophy: setting1	song2023813173924.40687608718872.mp3
+Philosophy: evader	song2023813173515.607723951339722.mp3
+Philosophy: cut1	song2023813172644.3630850315094.mp3
+Philosophy: add1	song202381453155.478769063949585.mp3
+Philosophy: double_blind	song202381452621.52085590362549.mp3
+Philosophy: find_path	song202381452431.62025499343872.mp3
+Philosophy: true11	song202381452235.81945300102234.mp3
+Philosophy: Essay Helper Web Service	song202381452035.99723792076111.mp3
+Philosophy: bag2philn-rel.pl	song202381451836.882648944854736.mp3
+Philosophy: big_connections_with_bag3_and_mr_short_books-rel.pl	song202381451655.19727611541748.mp3
+Philosophy: find18	song202381451449.077380895614624.mp3
+Philosophy: substring	song202381451254.9481520652771.mp3
+Philosophy: time	song202381451056.92296600341797.mp3
+Philosophy: venn	song202381445710.427699089050293.mp3
+Philosophy: two_contact_points	song202381445510.271308898925781.mp3
+Philosophy: clarify	song202381445329.41122794151306.mp3
+Philosophy: fill	song202381445145.20822596549988.mp3
+Philosophy: rhetoric_merge_trees	song202381444956.958410024642944.mp3
+Philosophy: beginnings_middles_ends	song202381444827.83752989768982.mp3
+Philosophy: sentence	song202381444651.94893193244934.mp3
+Philosophy: Paraphraser WS	song202381444327.01778292655945.mp3
+Philosophy: make_over_50	song202381444118.17778992652893.mp3
+Philosophy: expand_topic	song202381443931.23784589767456.mp3
+Philosophy: kw_for_kw1	song202381443748.12447690963745.mp3
+Philosophy: moti	song202381443615.334158897399902.mp3
+Philosophy: three_dimensions_to_two_dimensions	song202381443420.791363954544067.mp3
+Philosophy: you	song202381443226.437541007995605.mp3
+Philosophy: abbreviate	song202381443044.03726005554199.mp3
+Philosophy: bell	song202381442917.02792191505432.mp3
+Philosophy: mr2pp	song202381442728.209737062454224.mp3
+Philosophy: song_writer	song202381442526.57799506187439.mp3
+Philosophy: time_proportion	song202381442337.0228168964386.mp3
+Philosophy: ss	song202381442116.296891927719116.mp3
+Philosophy: physiological_time	song202381441930.838459968566895.mp3
+Philosophy: productivity	song202381441759.27127504348755.mp3
+Philosophy: type_climber	song202381441618.07670497894287.mp3
+Philosophy: character_freq	song202381441435.93133211135864.mp3
+Philosophy: arguments	song202381441242.60811710357666.mp3
+Philosophy: check_dependencies	song202381441113.722681045532227.mp3
+Philosophy: reach_end	song202381435816.26773691177368.mp3
+Philosophy: reverse_engineering1	song202381435640.42400097846985.mp3
+Philosophy: append_tree	song202381435452.5358030796051.mp3
+Philosophy: line_graph	song202381411148.221312046051025.mp3
+Philosophy: edge	song202381322540.7892649173736572.mp3
+Philosophy: edge_3d	song202381322529.586230039596558.mp3
+Philosophy: update_verifier	song202381322365.489423036575317.mp3
+Philosophy: version_adder	song202381322297.259375095367432.mp3
+Philosophy: accident_preventer_game	song202381321812.742182970046997.mp3
+Philosophy: food_dissolver_game2	song202381321623.053214073181152.mp3
+Philosophy: higher_lower	song202381321572.862483024597168.mp3
+Philosophy: meditation_chain_letter	song202381321414.012079000473022.mp3
+Philosophy: create_check_cube	song202381321306.494350910186768.mp3
+Philosophy: Faster paraphraser1_pl_ws.pl for SSI and web	song202381321289.72678804397583.mp3
+Philosophy: perpetual_motion	song202381321262.9338889122009277.mp3
+Philosophy: education_research	song202381321215.565685987472534.mp3
+Philosophy: product_name	song202381321101.6772589683532715.mp3
+Philosophy: Freeze age with BAG with arguments and algorithms	song202381321031.22438406944275.mp3
+Philosophy: BAG catalogue	song202381320915.240832090377808.mp3
+Philosophy: BAG multithreading	song202381320727.05096411705017.mp3
+Philosophy: BAG Continuous High Quality Thoughts	song202381320586.374435901641846.mp3
+Philosophy: BAG flush caches	song202381320549.843425035476685.mp3
+Philosophy: garbage collect	song202381320533.98860192298889.mp3
+Philosophy: empirical	song202381320521.0982630252838135.mp3
+Philosophy: rhetoric	song202381320326.844032049179077.mp3
+Philosophy: find.pl/subterm with address	song202381320154.100085020065308.mp3
+alg2types.pl	song202381320132.3994710445404053.mp3
+lpi: word1	song202381320010.96285605430603.mp3
+lpi: sub_string, atom_string	song202381319636.539900064468384.mp3
+lpi: Imported commands	song202381319357.198218107223511.mp3
+lpi, ssi: Added legacy interpret for SSI	song202381319207.6036388874053955.mp3
+lpi: contains_var1	song202381319146.47185492515564.mp3
+lpi, ssi: Fixed verification tests	song202381319110.19531607627868652.mp3
+lpi: string_strings	song202381318742.53605604171753.mp3
+lpi: Shell_pl - runs Prolog from List Prolog	song202381318254.83521008491516.mp3
+lpi: Shell_pl supports strings	song202381318131.1927158832550049.mp3
+lpi: Shell_pl can have a predicate with no arguments	song202381317543.8646929264068604.mp3
+lpi: Run C in List Prolog	song202381317318.400492906570435.mp3
+ssi: Paraphraser for SSI	song20238145304.805419921875.mp3
+ssi: Reset pred ids	song20238145284.871656894683838.mp3
+ssi: Added SSI with Prolog queries	song20238144458.190969944000244.mp3
+luciancicd	song20238144351.840699911117554.mp3
+luciancicd: diff HTML	song20238144210.331949949264526.mp3
+luciancicd: move_to_repository_or_back	song20238143531.2873709201812744.mp3
+luciancicd: luciancicd_ws.pl	song20238141957.06955409049988.mp3
+luciancicd: find_dependencies	song20238141817.64496111869812.mp3

@@ -1,0 +1,31 @@
+Songs 4 1 23	
+	
+SSI Member and Stringconcat	song202314124336.52725291252136.mid
+SSI Added semicolon between results	song2023141245.24189305305481.mid
+SSI Added non-deterministic top-level	song20231411462.531256914138794.mid
+SSI Changed with top-level, cut in LPI	song20231412043.10912108421326.mid
+SSI Added library predicates	song20231412232.6134870052337646.mid
+SSI Moved Library preds, pred_id to SSI	song20231412375.481961011886597.mid
+SSI Added read_password	song20231412395.1783270835876465.mid
+LPI Added more commands for ISO-Prolog	song20231412635.471153020858765.mid
+LPI Test 243 Back Propagate Values	song20231412855.86866593360901.mid
+LPI Added member and stringconcat	song202314113421.11686897277832.mid
+LPI Test 244 Foldl1	song202314113636.34931302070618.mid
+LPI Enabled e.g. string_chars("abc",[X,Y,Z]).	song202314113833.92199110984802.mid
+LPI Test 246 findall append1	song202314114043.24261498451233.mid
+LPI Added cuts to tests	song202314114314.100336074829102.mid
+LPI Test 17 with top-level, cut	song202314114832.876827001571655.mid
+LPI SSI, LPI or both in verify scripts	song202314115111.43616008758545.mid
+LPI Open tests 5, 6 - file web app	song202314115343.52410006523132.mid
+LPI Open test 7, read password	song202314115723.741233110427856.mid
+Philosophy string_concat with append	song202314121112.949055910110474.mid
+Philosophy foldl	song202314121311.167403936386108.mid
+Philosophy Intersection	song202314121549.41574311256409.mid
+Philosophy Subtract	song202314121826.736608028411865.mid
+Philosophy Run List Prolog on server	song202314122054.05463194847107.mid
+Philosophy combo_pass.pl	song202314122520.203630924224854.mid
+Philosophy Password in Web Editor	song202314122730.733541011810303.mid
+Philosophy caw_wo_lpi.pl	song202314122929.658468008041382.mid
+Philosophy doc_db.pl	song202314123159.98544502258301.mid
+Time Machine Caveats	song202314123428.287950038909912.mid
+State-Machine-to-List-Prolog	song202314124121.982129096984863.mid

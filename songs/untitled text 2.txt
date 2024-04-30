@@ -1,0 +1,21 @@
+All ard is the breath so ner.
+Ac ey reads about the coun ter.
+The tes ter needs Duk ur.
+The se lec tor goes to Don l.
+
+All ey forms Don l.
+Don ess is the se lec tor.
+The gra pher is Ac ald.
+The mi rac le loves Ac ur.
+
+Brae an finds the breath so ner.
+Adr ye nur tures the breath so ner.
+The breath so ner moves to Luc ur.
+The mi rac le is Sydn ey.
+
+Le ae is the breath so ner.
+All ard writes about the upda ter.
+The com bi ner is All l.
+Ac ae has Nei an.
+
+sectest0([n,v1,i1,v2,c,t2,s,c,o],[[v1,[All,ard,is,the,breath,so,ner],[Ac,ey,reads,about,the,coun,ter],[the,tes,ter,needs,Duk,ur],[the,se,lec,tor,goes,to,Don,l]],[v2,[All,ey,forms,Don,l],[Don,ess,is,the,se,lec,tor],[the,gra,pher,is,Ac,ald],[the,mi,rac,le,loves,Ac,ur]],[c,[Brae,an,finds,the,breath,so,ner],[Adr,ye,nur,tures,the,breath,so,ner],[the,breath,so,ner,moves,to,Luc,ur],[the,mi,rac,le,is,Sydn,ey]],[s,[Le,ae,is,the,breath,so,ner],[All,ard,writes,about,the,upda,ter],[the,com,bi,ner,is,All,l],[Ac,ae,has,Nei,an]]],[[n,[B,A,F]],[n,[A#,A,E]],[v,[E,F#,C]],[v,[F,C#,C]],[i,[C,G#,G]],[i,[C,A#,A]],[c,[A,B]],[c,[E,D,G]],[t,[G,C#,E]],[t,[A,C,D]],[s,[D]],[s,[G,F,C]],[o,[C,D]],[o,[G,A]]],[[[n,[B,D,F]],[n,[F#,A,C]],[n,[F,A,C]]],[[n,[A#,D,F]],[n,[A,C,E]],[n,[E,G,B]]],[[v,[E,G,B]],[v,[G,B,D]],[v,[C,E,G]]],[[v,[F,A,C]],[v,[E,G,B]],[v,[C,E,G]]],[[i,[C,E,G]],[i,[B,D,F]],[i,[G,B,D]]],[[i,[C,E,G]],[i,[G,B,D]],[i,[A,C,E]]],[[c,[A,C,E]],[c,[B,D,F]]],[[c,[E,G,B]],[c,[A,C,E]],[c,[G,B,D]]],[[t,[G,B,D]],[t,[A#,D,F]],[t,[E,G,B]]],[[t,[A,C,E]],[t,[C,E,G]],[t,[D,F,A]]],[[s,[D,F,A]]],[[s,[G,B,D]],[s,[A,C,E]],[s,[C,E,G]]],[[o,[C,E,G]],[o,[D#,G,A]],[o,[D,F,A]]],[[o,[G,B,D]],[o,[A,C,E]]]],[[[n,[21,Accordian],0],[v1,[21,Accordian],0],[i1,[21,Accordian],1],[v2,[21,Accordian],1],[c,[21,Accordian],1],[t2,[21,Accordian],1],[s,[21,Accordian],1],[c,[21,Accordian],1],[o,[21,Accordian],1]],[[n,[60,French Horn],1],[v1,[60,French Horn],1],[i1,[60,French Horn],1],[v2,[60,French Horn],0],[c,[60,French Horn],0],[t2,[60,French Horn],0],[s,[60,French Horn],0],[c,[60,French Horn],0],[o,[60,French Horn],1]],[[n,[65,Alto Sax],1],[v1,[65,Alto Sax],0],[i1,[65,Alto Sax],1],[v2,[65,Alto Sax],1],[c,[65,Alto Sax],1],[t2,[65,Alto Sax],0],[s,[65,Alto Sax],0],[c,[65,Alto Sax],1],[o,[65,Alto Sax],0]]],[[[n,[13,Xylophone],1],[v1,[13,Xylophone],0],[i1,[13,Xylophone],1],[v2,[13,Xylophone],1],[c,[13,Xylophone],0],[t2,[13,Xylophone],1],[s,[13,Xylophone],1],[c,[13,Xylophone],0],[o,[13,Xylophone],0]]],[0,Acoustic Grand Piano]

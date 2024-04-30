@@ -1,0 +1,53 @@
+29 2 24	
+	
+T2B: Lactobacillus Salivarius	song2024229205349.44672608375549
+T2B4: Compiled Stamps	song2024229205852.48197293281555
+T2B4: Shell scripts to freeze ages	song2024229205554.472630977630615
+Philosophy: Family.pl in List Prolog	song2024229205013.676130056381226
+Philosophy: Fixed "up" in Web Editor	song2024229204821.060075998306274
+Philosophy: Edit in Web Editor	song2024229204617.977760076522827
+Philosophy: View in Web Editor	song2024229204432.04418206214905
+Philosophy: Password in in Web Editor	song2024229204223.12903594970703
+Philosophy: Added new folders and files to web editor	song2024229204035.12175893783569
+Philosophy: Update paraphraser1_pl.pl	song2024229203833.82157897949219
+Philosophy: delete_sub_term_wa	song2024229203645.759504079818726
+Philosophy: A dependency chart of algorithms	song2024229203453.898492097854614
+Prolog-to-List-Prolog: pp_separate_comma	song2024229203255.353753089904785
+Time Machine: Added meditation	song2024229203056.889384031295776
+Time Machine: T2B4 scripts	song2024229202849.79065799713135
+Time Machine: Earn sentience (have one's own living quarters and appearance) by preparing for 15 simulants.	song2024229202656.233750104904175
+Time Machine: Future Computer	song2024229202312.64144492149353
+SSI: Compilation predicate	song2024229201911.26139497756958
+GitL: Newlines, commit label, file name in view in Web Service	song2024229201725.83655595779419
+GitL: Commit with description of changes	song2024229201523.235240936279297
+GitL: Integrate with Lucian CI/CD	song2024229201322.031131982803345
+GitL: Displayed identical diffs	song2024229201134.5636260509491
+LPI: assertz, getz and retractall (also in SSI)	song2024229195847.52604603767395
+LPI: Undefined '_' var in LPI, SSI	song2024229195324.265413999557495
+LPI: number_string and get_single_char	song2024229195123.00060510635376
+LPI: Comments	song2024229194930.561243057250977
+SSI: last_call_optimisation	song2024229194734.7569580078125
+SSI: Only SSI test 1 appendz	song2024229194525.502415895462036
+luciancicd: Readme Caveats	song2024229191510.376028060913086
+luciancicd: check_non_var	song2024229191323.421122074127197
+luciancicd: Keeps some commands without output	song2024229191127.622966051101685
+luciancicd: web_editor_gitl_test.pl	song2024229185854.51401710510254
+luciancicd: Multiple tests per predicate	song202422921430.467365026474
+luciancicd: remove_end_comment	song202422921235.19222092628479
+luciancidd: luciancicdverify.pl	song202422921055.48439002037048
+luciancicd: Separate output folder	song202422920941.9381160736084
+luciancicd: Test 11 - multiple i, o's	song202422920736.517524003982544
+luciancicd: luciancicd_ws1.pl	song202422920554.0910530090332
+luciancicd: Fixed folders problem on installation	song202422920528.91890811920166
+luciancicd: Backs up GitHub2o, Github_lc in gh2_tmp2 and GitHub2 in gh2_tmp	song202422920358.96810507774353
+luciancicd Displayed identical diffs	song202422920255.902856111526489
+luciancicd: Fixed order of predicates in test 15	song202422920213.6687569618225098
+luciancicd: Fixed commas in finding combinations	song202422920211.62399411201477
+luciancicd: Sped up Lucian CI/CD	song202422920026.66790199279785
+luciancicd: Compile LC	song202422919934.2088520526886
+luciancicd: Checks that starts in luciancicd folder, Tests multiple outputs	song202422919741.775439977645874
+luciancicd: Added a, a(no vars) to tests.	song202422919575.633615016937256
+luciancicd: Test 19, 20 - negative tests	song202422919556.134263038635254
+luciancicd: "Increase Max" written to log	song202422919199.242759943008423
+luciancicd: Tests 22, 23 - Finds predicate from previous version	song202422919171.103039026260376
+luciancicd: Fixed bug in A=[1] test	song202422919057.31131410598755

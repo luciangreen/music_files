@@ -1,0 +1,12 @@
+Songs 8 8 22
+
+String Concat with Modes in LPI	song202288112634.048733949661255.mid
+Append with Modes in LPI	song202288112848.89102101325989.mid
+Member with Modes in LPI	song202288113119.030937910079956.mid
+String Concat with Modes in SSI	song202288113359.40878701210022.mid
+Append with Modes in SSI	song202288113614.030618906021118.mid
+Member with Modes in SSI	song202288113852.2177848815918.mid
+replace_in_term	song202288114056.571940898895264.mid
+convert_to_lp_pipe	song202288114253.192527055740356.mid
+
+Apple image by https://www.freeimages.com/photographer/surely-45112

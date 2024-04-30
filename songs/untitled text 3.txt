@@ -1,0 +1,21 @@
+Don an has the breath so ner.
+Count an finds Ac ae.
+All ie feels Ac ae.
+The mi rac le is Ac ae.
+
+Count ae moves to the coun ter.
+Brae ur nur tures the upda ter.
+The breath so ner has Ac er.
+One has Wilb ard.
+
+Whistl ye feels Whistl ard.
+Don ard reads about one.
+The breath so ner has Whistl ard.
+Black ard is Ac ae.
+
+Don ye has Brae ess.
+Count ard nur tures the o ther.
+The tes ter moves to Ven er.
+The es sen tial is Count ey.
+
+sectest0([n,v1,i1,v2,c,t2,s,c,o],[[v1,[Don,an,has,the,breath,so,ner],[Count,an,finds,Ac,ae],[All,ie,feels,Ac,ae],[the,mi,rac,le,is,Ac,ae]],[v2,[Count,ae,moves,to,the,coun,ter],[Brae,ur,nur,tures,the,upda,ter],[the,breath,so,ner,has,Ac,er],[one,has,Wilb,ard]],[c,[Whistl,ye,feels,Whistl,ard],[Don,ard,reads,about,one],[the,breath,so,ner,has,Whistl,ard],[Black,ard,is,Ac,ae]],[s,[Don,ye,has,Brae,ess],[Count,ard,nur,tures,the,o,ther],[the,tes,ter,moves,to,Ven,er],[the,es,sen,tial,is,Count,ey]]],[[n,[G,F#,B]],[n,[E,A,D]],[v,[D,C,G]],[v,[C,F#,E]],[i,[E,G,C]],[i,[F,E]],[c,[E,B]],[c,[E]],[t,[E,A,G]],[t,[C,B]],[s,[B,F#,A]],[s,[D,G#,B]],[o,[B,A#,A]],[o,[D,E,G]]],[[[n,[G,B,D]],[n,[F,A,C]],[n,[B,D,F]]],[[n,[E,G,B]],[n,[A,C,E]],[n,[D,F,A]]],[[v,[D,F,A]],[v,[C,E,G]],[v,[G,B,D]]],[[v,[C,E,G]],[v,[B,D,F]],[v,[E,G,B]]],[[i,[E,G,B]],[i,[F#,A,C]],[i,[C,E,G]]],[[i,[F,A,C]],[i,[A#,D,F]],[i,[E,G,B]]],[[c,[E,G,B]],[c,[A,C,E]],[c,[B,D,F]]],[[c,[E,G,B]]],[[t,[E,G,B]],[t,[G,B,D]]],[[t,[C,E,G]],[t,[F,A,C]],[t,[B,D,F]]],[[s,[B,D,F]],[s,[A,C,E]]],[[s,[D,F,A]],[s,[C,E,G]],[s,[B,D,F]]],[[o,[B,D,F]],[o,[A#,D,F]],[o,[A,C,E]]],[[o,[D,F,A]],[o,[C,E,G]],[o,[G,B,D]]]],[[[n,[80,Lead 1 (square)],1],[v1,[80,Lead 1 (square)],0],[i1,[80,Lead 1 (square)],0],[v2,[80,Lead 1 (square)],1],[c,[80,Lead 1 (square)],1],[t2,[80,Lead 1 (square)],0],[s,[80,Lead 1 (square)],1],[c,[80,Lead 1 (square)],1],[o,[80,Lead 1 (square)],1]],[[n,[66,Tenor Sax],0],[v1,[66,Tenor Sax],1],[i1,[66,Tenor Sax],0],[v2,[66,Tenor Sax],1],[c,[66,Tenor Sax],0],[t2,[66,Tenor Sax],1],[s,[66,Tenor Sax],1],[c,[66,Tenor Sax],0],[o,[66,Tenor Sax],1]],[[n,[39,Synth Bass 2],0],[v1,[39,Synth Bass 2],0],[i1,[39,Synth Bass 2],0],[v2,[39,Synth Bass 2],1],[c,[39,Synth Bass 2],0],[t2,[39,Synth Bass 2],0],[s,[39,Synth Bass 2],0],[c,[39,Synth Bass 2],0],[o,[39,Synth Bass 2],1]]],[[[n,[37,Slap Bass 2],0],[v1,[37,Slap Bass 2],1],[i1,[37,Slap Bass 2],1],[v2,[37,Slap Bass 2],1],[c,[37,Slap Bass 2],0],[t2,[37,Slap Bass 2],0],[s,[37,Slap Bass 2],0],[c,[37,Slap Bass 2],0],[o,[37,Slap Bass 2],0]]],[0,Acoustic Grand Piano]

@@ -1,0 +1,56 @@
+End of 2023
+
+Lucian CI/CD 2 - song20231119232713.840490102767944_meta.txt
+Time_Machine Protection	song202311232387.698576927185059_meta.txt
+Books SALES	song20231124042.363081932067871_meta.txt
+Books Music	song202311240129.69562792778015_meta.txt
+Books POPOLOGY	song202311240628.462929010391235_meta.txt
+Books Journalism	song202311240845.339874029159546_meta.txt
+Books PEDAGOGY	song2023112322181.0176730155944824_meta.txt
+Books IMMORTALITY	song2023112322233.603518009185791_meta.txt
+Books MEDITATION	song2023112323150.2658710479736328_meta.txt
+Books ECONOMICS	song2023112323158.52317690849304_meta.txt
+Books SIMULATION	song2023112323357.033366918563843_meta.txt
+Books MEDICINE	song2023112323401.3436310291290283_meta.txt
+Books FINANCE	song2023112323418.737180948257446_meta.txt
+Books BOTS	song2023112323496.745074987411499_meta.txt
+SSI include	song2023112323612.542373895645142_meta.txt
+SSI Web Service sleep with 10 seconds left over	song20231123215746.55421805381775_meta.txt
+SSI, LPI member2(List,Item)	song20231123221112.748939990997314_meta.txt
+Text-to-Breasonings Faster texttobrall2_reading3.pl	song20231123221316.71785593032837_meta.txt
+Text-to-Breasonings Freezing Anti-ageing medicine	song20231123221548.12443399429321_meta.txt
+Text-to-Breasonings Speed up for BAG	song20231123222012.805078983306885_meta.txt
+Text-to-Breasonings Create sectest_producer.pl	song20231123222520.400656938552856_meta.txt
+luciancicd lines_to_comments	song20231123222719.376254081726074_meta.txt
+luciancicd New version, tests bottom up	song20231123222945.36313199996948_meta.txt
+luciancicd Readme, Settings	song20231123223159.56014108657837_meta.txt
+luciancicd Non-Prolog link to non-bottom-up version in Readme	song20231123223433.00624704360962_meta.txt
+luciancicd Fixed bug with multiple repositories	song20231123223652.467663049697876_meta.txt
+luciancicd Tried saving multiple diff html files	song20231123223910.124058961868286_meta.txt
+luciancicd catch term_to_atom	song20231123224127.207345008850098_meta.txt
+luciancicd Writes current predicates	song20231123224336.783474922180176_meta.txt
+luciancicd Fixed order of results, sped up p2lp	song20231123224544.154927015304565_meta.txt
+luciancicd Tightened ordering of results	song20231123224813.022265911102295_meta.txt
+luciancicd Fixed find dependencies	song20231123225032.385765075683594_meta.txt
+luciancicd Fixed bug in which multiple clauses were not recognised	song20231123225255.50435709953308_meta.txt
+luciancicd Changed diff_group_combos to diff_combos_vintage to find changed lines	song20231123225449.50286293029785_meta.txt
+gitl	song20231123225717.98309302330017_meta.txt
+gitl web server	song20231123225936.49735403060913_meta.txt
+Philosophy dfs_post_order	song20231123231029.172247886657715_meta.txt
+Philosophy perimeter	song20231123231240.80358600616455_meta.txt
+Philosophy solve	song20231123231658.54685091972351_meta.txt
+Philosophy pretty_print	song20231123231848.67268204689026_meta.txt
+Philosophy find_complexity	song20231123232056.04181408882141_meta.txt
+Philosophy print_heading	song20231123232325.206868886947632_meta.txt
+Philosophy word_frequency_count2	song20231123232548.1022310256958_meta.txt
+Philosophy professor_algorithm	song20231123232758.465611934661865_meta.txt
+Philosophy ontology_connection	song20231123233026.27854299545288_meta.txt
+Philosophy arg_conn	song20231123233249.004252910614014_meta.txt
+Philosophy alg_conn	song20231123233743.6378231048584_meta.txt
+Philosophy split_on_non_alpha	song20231123234229.50360608100891_meta.txt
+Philosophy paraphraser2	song20231123234432.340739011764526_meta.txt
+Philosophy clp(fd)	song20231123234649.0788049697876_meta.txt
+Philosophy bt-lp2sm_test	song20231123235147.879075050354004_meta.txt
+Philosophy bt-lp2sm_en2test	song20231123235411.580220937728882_meta.txt
+Philosophy trans_txt	song20231123235631.95025610923767_meta.txt
+listprologinterpreter working_directory1	song20231123235852.250524044036865_meta.txt

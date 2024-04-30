@@ -1,0 +1,21 @@
+Brae ey forms the run ner.
+All ur is in the tran sla tor.
+The com bi ner lifts Le er.
+The dra wer needs Count ae.
+
+Don ess nur tures the mi rac le.
+Whistl er writes about the gram mar.
+Nei ie makes Wilb ie.
+The chec ker is All er.
+
+Sydn ur is in Duk ess.
+Duk ess is the dra wer.
+Count ie nur tures Adr ey.
+The spel ler needs Nei ald.
+
+Ac ey lifts the o ther.
+Adr e feels the wri ter.
+The dra wer goes to Brae ess.
+The spel ler is in Sydn er.
+
+sectest0([n,v1,i1,v2,c,t2,s,c,o],[[v1,[Brae,ey,forms,the,run,ner],[All,ur,is,in,the,tran,sla,tor],[the,com,bi,ner,lifts,Le,er],[the,dra,wer,needs,Count,ae]],[v2,[Don,ess,nur,tures,the,mi,rac,le],[Whistl,er,writes,about,the,gram,mar],[Nei,ie,makes,Wilb,ie],[the,chec,ker,is,All,er]],[c,[Sydn,ur,is,in,Duk,ess],[Duk,ess,is,the,dra,wer],[Count,ie,nur,tures,Adr,ey],[the,spel,ler,needs,Nei,ald]],[s,[Ac,ey,lifts,the,o,ther],[Adr,e,feels,the,wri,ter],[the,dra,wer,goes,to,Brae,ess],[the,spel,ler,is,in,Sydn,er]]],[[n,[E,C,D]],[n,[G,E]],[v,[C]],[v,[C]],[i,[F,D,E]],[i,[C]],[c,[C,D,B]],[c,[E,C]],[t,[C,A]],[t,[D,A#,C]],[s,[C,D]],[s,[G,D#,F]],[o,[F,G]],[o,[C]]],[[[n,[E,G,B]],[n,[C,E,G]],[n,[D,F,A]]],[[n,[G,B,D]],[n,[E,G,B]]],[[v,[C,E,G]]],[[v,[C,E,G]]],[[i,[F,A,C]],[i,[D,F,A]],[i,[E,G,B]]],[[i,[C,E,G]]],[[c,[C,E,G]],[c,[D,F,A]],[c,[B,D,F]]],[[c,[E,G,B]],[c,[C,E,G]]],[[t,[C,E,G]],[t,[A,C,E]]],[[t,[D,F,A]],[t,[A#,D,F]],[t,[C,E,G]]],[[s,[C,E,G]],[s,[D,F,A]]],[[s,[G,B,D]],[s,[A,C,E]],[s,[F,A,C]]],[[o,[F,A,C]],[o,[G,B,D]]],[[o,[C,E,G]]]],[[[n,[60,French Horn],0],[v1,[60,French Horn],0],[i1,[60,French Horn],1],[v2,[60,French Horn],0],[c,[60,French Horn],1],[t2,[60,French Horn],0],[s,[60,French Horn],0],[c,[60,French Horn],0],[o,[60,French Horn],1]],[[n,[99,FX 4 (atmosphere)],0],[v1,[99,FX 4 (atmosphere)],0],[i1,[99,FX 4 (atmosphere)],0],[v2,[99,FX 4 (atmosphere)],1],[c,[99,FX 4 (atmosphere)],0],[t2,[99,FX 4 (atmosphere)],1],[s,[99,FX 4 (atmosphere)],0],[c,[99,FX 4 (atmosphere)],1],[o,[99,FX 4 (atmosphere)],1]]],[[[n,[38,Synth Bass 1],0],[v1,[38,Synth Bass 1],0],[i1,[38,Synth Bass 1],0],[v2,[38,Synth Bass 1],1],[c,[38,Synth Bass 1],1],[t2,[38,Synth Bass 1],0],[s,[38,Synth Bass 1],1],[c,[38,Synth Bass 1],0],[o,[38,Synth Bass 1],1]]],[0,Acoustic Grand Piano]

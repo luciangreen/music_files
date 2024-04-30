@@ -1,0 +1,33 @@
+rpg_game_builder2D.pl	song202146141932.7031569480896_meta.txt
+rpg_game_builder3D.pl	song202146142744.0355429649353_meta.txt
+rpg_game_builder_random2D.pl	song202146141144.64583110809326_meta.txt
+rpg_game_builder_random3D.pl	song20214614419.830338954925537_meta.txt
+autocomplete.pl	song20214613497.5954909324646_meta.txt
+truncate.pl	song202146134039.27243709564209_meta.txt
+vector_drawing.pl	song202146133312.330918073654175_meta.txt
+graph.pl	song202146132456.11202907562256_meta.txt
+construct.pl	song202146131659.50455594062805_meta.txt
+tally_test.pl	song20214613839.98426103591919_meta.txt
+explain_connection.pl	song202146125922.771132946014404_meta.txt
+maze_path.pl	song202146125216.230156898498535_meta.txt
+higher_average.pl	song202146124522.65789794921875_meta.txt
+one_fill.pl	song202146123823.876574993133545_meta.txt
+n_level_argument.pl	song202146123048.4618079662323_meta.txt
+stages_of_life.pl	song202146122315.164427042007446_meta.txt
+br_details.pl	song202146121536.30546689033508_meta.txt
+find_new_algorithms.pl	song20214612730.01162600517273_meta.txt
+combo_of_algs.txt	song2021461207.006290912628174_meta.txt
+frequency.pl	song202146115120.095876932144165_meta.txt
+rff.pl	song202146114345.231075048446655_meta.txt
+sectest_h.pl	song202146113517.650336027145386_meta.txt
+sectest_pain.pl	song202146112634.80354905128479_meta.txt
+quantum_power.pl	song202146111846.99969291687012_meta.txt
+rectangles.pl	song202146111222.326031923294067_meta.txt
+breasoning_and_detail_log.pl	song2021461137.443023920059204_meta.txt
+command_line_user_input.pl	song202146105616.612957000732422_meta.txt
+truncate_words_conserving_formatting.pl	song202146104642.4030339717865_meta.txt
+mutually_exclusive.pl	song202146103623.22412395477295_meta.txt
+male_female.pl	song202146102955.34523797035217_meta.txt
+equitable.pl	song202146102254.79034900665283_meta.txt
+Lucian-Academy Repository	song202146101617.915363073349_meta.txt
+Daily-Regimen Repository	song20214610755.37934398651123_meta.txt
