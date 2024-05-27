@@ -1,10 +1,10 @@
-# music_files
+# Music Files
 
-Meta data of songs created with Music Composer.
+Metadata of songs created with Music Composer.
 
 # Getting Started
 
-Please read the following instructions on installing the project on your computer to convert and play the music files.
+Please read the following instructions on installing the project to convert and play the music files on your computer.
 
 # Prerequisites
 
