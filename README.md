@@ -38,7 +38,8 @@ cd List-Prolog-Package-Manager
 swipl
 ['lppm'].
 lppm_install("luciangreen", "music_files").
-halt
+../
+halt.
 ```
 
 # Convert meta to mid files
